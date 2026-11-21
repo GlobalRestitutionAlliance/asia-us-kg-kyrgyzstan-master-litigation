@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: kyrgyzstanan-restitution-roadmap-and-qsf-trust-execution
-  name: Kyrgyzstanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/kyrgyzstanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_kg_001
+    name: Kyrgyzstan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_002
+    name: Kyrgyzstan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_003
+    name: Kyrgyzstan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_004
+    name: Kyrgyzstan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_005
+    name: Kyrgyzstan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_006
+    name: Kyrgyzstan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_007
+    name: Kyrgyzstan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_008
+    name: Kyrgyzstan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_009
+    name: Kyrgyzstan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_010
+    name: Kyrgyzstan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_011
+    name: Kyrgyzstan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_012
+    name: Kyrgyzstan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_013
+    name: Kyrgyzstan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_014
+    name: Kyrgyzstan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_015
+    name: Kyrgyzstan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_016
+    name: Kyrgyzstan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_017
+    name: Kyrgyzstan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_018
+    name: Kyrgyzstan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_019
+    name: Kyrgyzstan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_020
+    name: Kyrgyzstan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_021
+    name: Kyrgyzstan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_022
+    name: Kyrgyzstan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_023
+    name: Kyrgyzstan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_024
+    name: Kyrgyzstan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_025
+    name: Kyrgyzstan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_026
+    name: Kyrgyzstan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_027
+    name: Kyrgyzstan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_028
+    name: Kyrgyzstan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_029
+    name: Kyrgyzstan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_030
+    name: Kyrgyzstan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_031
+    name: Kyrgyzstan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_032
+    name: Kyrgyzstan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_033
+    name: Kyrgyzstan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_034
+    name: Kyrgyzstan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_035
+    name: Kyrgyzstan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_036
+    name: Kyrgyzstan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_037
+    name: Kyrgyzstan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_038
+    name: Kyrgyzstan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_039
+    name: Kyrgyzstan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_040
+    name: Kyrgyzstan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_041
+    name: Kyrgyzstan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_042
+    name: Kyrgyzstan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_043
+    name: Kyrgyzstan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_044
+    name: Kyrgyzstan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_045
+    name: Kyrgyzstan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_046
+    name: Kyrgyzstan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_047
+    name: Kyrgyzstan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_048
+    name: Kyrgyzstan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_049
+    name: Kyrgyzstan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_050
+    name: Kyrgyzstan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_051
+    name: Kyrgyzstan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_052
+    name: Kyrgyzstan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_053
+    name: Kyrgyzstan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_054
+    name: Kyrgyzstan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_055
+    name: Kyrgyzstan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_056
+    name: Kyrgyzstan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_057
+    name: Kyrgyzstan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_058
+    name: Kyrgyzstan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_059
+    name: Kyrgyzstan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_060
+    name: Kyrgyzstan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_061
+    name: Kyrgyzstan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_062
+    name: Kyrgyzstan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_063
+    name: Kyrgyzstan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_064
+    name: Kyrgyzstan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_065
+    name: Kyrgyzstan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_066
+    name: Kyrgyzstan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_067
+    name: Kyrgyzstan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_068
+    name: Kyrgyzstan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_069
+    name: Kyrgyzstan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_070
+    name: Kyrgyzstan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_071
+    name: Kyrgyzstan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_072
+    name: Kyrgyzstan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_073
+    name: Kyrgyzstan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_074
+    name: Kyrgyzstan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_075
+    name: Kyrgyzstan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_076
+    name: Kyrgyzstan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_077
+    name: Kyrgyzstan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_078
+    name: Kyrgyzstan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_079
+    name: Kyrgyzstan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_080
+    name: Kyrgyzstan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_081
+    name: Kyrgyzstan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_082
+    name: Kyrgyzstan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_083
+    name: Kyrgyzstan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_084
+    name: Kyrgyzstan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_085
+    name: Kyrgyzstan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_086
+    name: Kyrgyzstan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_087
+    name: Kyrgyzstan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_088
+    name: Kyrgyzstan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_089
+    name: Kyrgyzstan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_090
+    name: Kyrgyzstan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_091
+    name: Kyrgyzstan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_092
+    name: Kyrgyzstan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_093
+    name: Kyrgyzstan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_094
+    name: Kyrgyzstan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_095
+    name: Kyrgyzstan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_096
+    name: Kyrgyzstan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_097
+    name: Kyrgyzstan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_098
+    name: Kyrgyzstan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_099
+    name: Kyrgyzstan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_100
+    name: Kyrgyzstan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_101
+    name: Kyrgyzstan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_102
+    name: Kyrgyzstan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_103
+    name: Kyrgyzstan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_104
+    name: Kyrgyzstan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_105
+    name: Kyrgyzstan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_106
+    name: Kyrgyzstan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_107
+    name: Kyrgyzstan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_108
+    name: Kyrgyzstan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_109
+    name: Kyrgyzstan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_110
+    name: Kyrgyzstan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_111
+    name: Kyrgyzstan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_112
+    name: Kyrgyzstan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_113
+    name: Kyrgyzstan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_114
+    name: Kyrgyzstan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_115
+    name: Kyrgyzstan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_116
+    name: Kyrgyzstan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_117
+    name: Kyrgyzstan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_118
+    name: Kyrgyzstan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_119
+    name: Kyrgyzstan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_120
+    name: Kyrgyzstan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_121
+    name: Kyrgyzstan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_122
+    name: Kyrgyzstan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_123
+    name: Kyrgyzstan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_124
+    name: Kyrgyzstan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_125
+    name: Kyrgyzstan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_126
+    name: Kyrgyzstan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_127
+    name: Kyrgyzstan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_128
+    name: Kyrgyzstan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_129
+    name: Kyrgyzstan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_130
+    name: Kyrgyzstan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_131
+    name: Kyrgyzstan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_132
+    name: Kyrgyzstan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_133
+    name: Kyrgyzstan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_134
+    name: Kyrgyzstan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_135
+    name: Kyrgyzstan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_136
+    name: Kyrgyzstan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_137
+    name: Kyrgyzstan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_138
+    name: Kyrgyzstan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_139
+    name: Kyrgyzstan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_140
+    name: Kyrgyzstan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_141
+    name: Kyrgyzstan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_142
+    name: Kyrgyzstan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_143
+    name: Kyrgyzstan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_144
+    name: Kyrgyzstan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_145
+    name: Kyrgyzstan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_146
+    name: Kyrgyzstan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_147
+    name: Kyrgyzstan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_148
+    name: Kyrgyzstan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_149
+    name: Kyrgyzstan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_150
+    name: Kyrgyzstan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_151
+    name: Kyrgyzstan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_152
+    name: Kyrgyzstan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_153
+    name: Kyrgyzstan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_154
+    name: Kyrgyzstan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_155
+    name: Kyrgyzstan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_156
+    name: Kyrgyzstan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_157
+    name: Kyrgyzstan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_158
+    name: Kyrgyzstan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_159
+    name: Kyrgyzstan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_160
+    name: Kyrgyzstan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_161
+    name: Kyrgyzstan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_162
+    name: Kyrgyzstan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_163
+    name: Kyrgyzstan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_164
+    name: Kyrgyzstan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_165
+    name: Kyrgyzstan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_166
+    name: Kyrgyzstan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_167
+    name: Kyrgyzstan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_168
+    name: Kyrgyzstan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_169
+    name: Kyrgyzstan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_170
+    name: Kyrgyzstan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_171
+    name: Kyrgyzstan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_172
+    name: Kyrgyzstan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_173
+    name: Kyrgyzstan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_174
+    name: Kyrgyzstan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_175
+    name: Kyrgyzstan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_176
+    name: Kyrgyzstan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_177
+    name: Kyrgyzstan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_178
+    name: Kyrgyzstan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_179
+    name: Kyrgyzstan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_180
+    name: Kyrgyzstan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_181
+    name: Kyrgyzstan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_182
+    name: Kyrgyzstan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_183
+    name: Kyrgyzstan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_184
+    name: Kyrgyzstan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_185
+    name: Kyrgyzstan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_186
+    name: Kyrgyzstan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_187
+    name: Kyrgyzstan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_188
+    name: Kyrgyzstan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_189
+    name: Kyrgyzstan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_190
+    name: Kyrgyzstan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_191
+    name: Kyrgyzstan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_192
+    name: Kyrgyzstan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_193
+    name: Kyrgyzstan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_194
+    name: Kyrgyzstan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_195
+    name: Kyrgyzstan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_196
+    name: Kyrgyzstan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_197
+    name: Kyrgyzstan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_198
+    name: Kyrgyzstan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_199
+    name: Kyrgyzstan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_200
+    name: Kyrgyzstan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_201
+    name: Kyrgyzstan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_202
+    name: Kyrgyzstan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_203
+    name: Kyrgyzstan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_204
+    name: Kyrgyzstan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_205
+    name: Kyrgyzstan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_206
+    name: Kyrgyzstan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_207
+    name: Kyrgyzstan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_208
+    name: Kyrgyzstan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_209
+    name: Kyrgyzstan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_210
+    name: Kyrgyzstan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_211
+    name: Kyrgyzstan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_212
+    name: Kyrgyzstan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_213
+    name: Kyrgyzstan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_214
+    name: Kyrgyzstan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_215
+    name: Kyrgyzstan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_216
+    name: Kyrgyzstan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_217
+    name: Kyrgyzstan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_218
+    name: Kyrgyzstan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_219
+    name: Kyrgyzstan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_220
+    name: Kyrgyzstan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_221
+    name: Kyrgyzstan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_222
+    name: Kyrgyzstan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_223
+    name: Kyrgyzstan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_224
+    name: Kyrgyzstan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_225
+    name: Kyrgyzstan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_226
+    name: Kyrgyzstan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_227
+    name: Kyrgyzstan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_228
+    name: Kyrgyzstan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_229
+    name: Kyrgyzstan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_230
+    name: Kyrgyzstan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_231
+    name: Kyrgyzstan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_232
+    name: Kyrgyzstan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_233
+    name: Kyrgyzstan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_234
+    name: Kyrgyzstan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_235
+    name: Kyrgyzstan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_236
+    name: Kyrgyzstan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_237
+    name: Kyrgyzstan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_238
+    name: Kyrgyzstan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_239
+    name: Kyrgyzstan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_240
+    name: Kyrgyzstan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_241
+    name: Kyrgyzstan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_242
+    name: Kyrgyzstan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_243
+    name: Kyrgyzstan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_244
+    name: Kyrgyzstan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_245
+    name: Kyrgyzstan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_246
+    name: Kyrgyzstan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_247
+    name: Kyrgyzstan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_248
+    name: Kyrgyzstan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_249
+    name: Kyrgyzstan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_250
+    name: Kyrgyzstan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_251
+    name: Kyrgyzstan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kg_252
+    name: Kyrgyzstan Skill 252
+    status: ACTIVE_SCAFFOLD
