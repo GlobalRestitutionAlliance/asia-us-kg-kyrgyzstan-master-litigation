@@ -1,0 +1,11 @@
+source_id,title,url,publisher,source_type,access,notes,legal_review_status
+SRC-001,Library of Congress - Kyrgyzstan,https://www.loc.gov/search/?q=kyrgyzstan+united+states,Library of Congress,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-002,State Dept - Kyrgyzstan,https://www.state.gov/countries-areas/kyrgyzstan/,State Dept,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-003,UN Digital Library - Kyrgyzstan,https://digitallibrary.un.org/search?ln=en&p=kyrgyzstan,UN Digital Library,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-004,World Bank - Kyrgyzstan,https://data.worldbank.org/country/kyrgyz-republic,World Bank,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-005,UNHCR - Kyrgyzstan,https://www.unhcr.org/countries/kyrgyzstan,UNHCR,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-006,HRW - Kyrgyzstan,https://www.hrw.org/europe/central-asia/kyrgyzstan,HRW,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-007,Amnesty - Kyrgyzstan,https://www.amnesty.org/en/location/europe-and-central-asia/eastern-europe-and-central-asia/kyrgyzstan/,Amnesty,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-008,ICRC - Kyrgyzstan,https://www.icrc.org/en/where-we-work/europe-central-asia/kyrgyzstan,ICRC,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-009,OSCE - Kyrgyzstan,https://www.osce.org/countries/kyrgyzstan,OSCE,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-010,NARA - Kyrgyzstan,https://catalog.archives.gov/search?q=kyrgyzstan,NARA,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
